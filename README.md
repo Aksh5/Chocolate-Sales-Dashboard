@@ -51,5 +51,3 @@ This project helped strengthen my skills in:
 - Designing clean, readable visuals for stakeholder use
 
 ---
-
-
