@@ -44,7 +44,6 @@ The dataset includes:
 
 ## 📈 Learnings & Outcomes
 
-This project helped strengthen my skills in:
 - Translating raw sales data into business insights
 - Structuring product-level dashboards
 - Using DAX to create custom metrics
